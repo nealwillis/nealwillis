@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
 
 <h2> Hey there! I'm Neal.</h2>
 
@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/neal-willis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neal-willis&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nealwillis&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neal-willis&theme=buefy&layout=compact" />
 </a>
 
@@ -41,6 +41,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/neal-willis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Neal%20Willis%20?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nealwillis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Neal%20Willis%20?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nealwillis0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nealwillis0@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
