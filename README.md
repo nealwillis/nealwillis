@@ -1,22 +1,46 @@
-<h1 align="center">Hi 👋, I'm Neal</h1>
-<h3 align="center">A Passionate Machine Learning & Data Science Analyst</h3>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nealwillis" alt="nealwillis" /></a> </p>
+<h2> Hey there! I'm Neal.</h2>
 
-- 💬 Ask me about **python**
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 📫 How to reach me **nealwillis0@gmail.com**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neal-willis-403a521ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neal-willis-403a521ba/" height="30" width="40" /></a>
+- 🎓 &nbsp; Studying Computer Science at Fort Valley State University.
+
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-333333?style=flat&logo=pycharm)
+
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/neal-willis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Neal%20Willis%20?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nealwillis0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nealwillis0@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nealwillis&show_icons=true&locale=en&layout=compact" alt="nealwillis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nealwillis&show_icons=true&locale=en" alt="nealwillis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nealwillis&" alt="nealwillis" /></p>
