@@ -33,7 +33,7 @@
 
 <a href="https://github.com/neal-willis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nealwillis&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neal-willis&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealwillis&theme=buefy&layout=compact" />
 </a>
 
 <br/>
