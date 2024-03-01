@@ -4,6 +4,8 @@
 
 <h3> 🤝 &nbsp;About Me </h3>
 
+Hi, I'm Neal. I'm a Data Scientist who is passionate about creating valuable solutions working with data. 
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Fort Valley State University.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
