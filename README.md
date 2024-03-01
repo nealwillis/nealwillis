@@ -2,13 +2,13 @@
 
 <h2> Hey there! I'm Neal.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 🤝 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-
 - 🎓 &nbsp; Studying Computer Science at Fort Valley State University.
-
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💬 &nbsp; Ask me about Anything
+- 📬 &nbsp; How to reach me <a href="mailto:nealwillis0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email:-nealwillis0@gmail.com-gray?style=flat-square&logo=gmail"></a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
